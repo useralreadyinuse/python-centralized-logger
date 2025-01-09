@@ -9,9 +9,9 @@ setup(
         "python-json-logger",
     ],
     description="A centralized JSON logging library for Python applications.",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/centralized-logger",
+    author="Mahmoud Abu Hamad",
+    author_email="mahmoud.abuhamad@gmail.com",
+    url="https://github.com/yourusername/python-centralized-logger",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
